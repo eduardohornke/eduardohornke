@@ -1,7 +1,7 @@
 <div align="center">
  
-[![Linkedin: eduardohornke](https://img.shields.io/badge/-eduardohornke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardohornke/)](https://www.linkedin.com/in/eduardohornke/)
-[![GitHub: eduardohornke](https://img.shields.io/github/followers/eduardohornke?label=follow&style=social)](https://github.com/eduardohornke)
+[![GitHub: eduardohornke](https://img.shields.io/github/followers/eduardohornke?label=follow&style=social)](https://github.com/eduardohornke) <br>
+<img align="center" alt="eduardohornke"  src="https://komarev.com/ghpvc/?username=eduardohornke&style=flat-square"> <br>
  
 <details>
  
@@ -19,5 +19,7 @@
 #### <kbd>Ferramentas:</kbd><br>
 <img height="26" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
+ 
+ [![Linkedin: eduardohornke](https://img.shields.io/badge/-eduardohornke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardohornke/)](https://www.linkedin.com/in/eduardohornke/) 
  
 </details>
