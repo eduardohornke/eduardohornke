@@ -2,7 +2,8 @@
  
  <img src="https://user-images.githubusercontent.com/25671369/171515597-a8d389e8-b287-477a-82f8-83ee125f04c5.gif"> <br>
  
-[![GitHub: eduardohornke](https://img.shields.io/github/followers/eduardohornke?label=follow&style=social)](https://github.com/eduardohornke)
+[![GitHub Followers](https://img.shields.io/github/followers/eduardohornke?style=social)](https://github.com/eduardohornke)
+ ![GitHub User's stars](https://img.shields.io/github/stars/eduardohornke?style=social)
 
 #### <kbd>Front-end:</kbd><br>
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
@@ -30,3 +31,4 @@
 &nbsp;
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
 <img height="26" title="Figma" alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> &nbsp;
+ 
