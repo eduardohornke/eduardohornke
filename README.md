@@ -17,7 +17,6 @@
 <img height="26" title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> &nbsp;
 <img height="26" title="Angular" alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> &nbsp;
 <img height="26" title=Vue.js alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"> &nbsp;
-<img height="26" title=Redux.js alt="Redux.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> &nbsp;
  
 #### <kbd>Back-end:</kbd><br>
 <img height="26" title="Node.JS" alt="Node.JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> 
