@@ -5,10 +5,8 @@
 #### <kbd>Front-end:</kbd><br>
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-<img height="26" title="Bulma" alt="Bulma" src="https://raw.githubusercontent.com/jgthms/bulma/47d7f8dea8112bfa0b91c63f649ed6356f83a157/docs/_includes/svg/bulma-b.svg"> &nbsp;
 <img height="26" title="SASS" alt="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> &nbsp;
 <img height="26" title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> &nbsp;
-<img height="26" title="jQuery" alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> &nbsp;
 <img height="26" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height='26' title=TypeScript alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp;
 <img height="26" title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> &nbsp;
