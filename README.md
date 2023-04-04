@@ -6,6 +6,7 @@
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 <img height="26" title="SASS" alt="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> &nbsp;
+<img height="26" title="Tailwind CSS" alt="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"> &nbsp;
 <img height="26" title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> &nbsp;
 <img height="26" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height='26' title=TypeScript alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp;
